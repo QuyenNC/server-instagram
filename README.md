@@ -37,7 +37,7 @@
 
 # Quick Start
 
-### Add a default.json file in config folder with the following
+### Them file .env để test
 
 ```
 {
