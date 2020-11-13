@@ -1,6 +1,7 @@
 # Instagram_Clone
 
 > Clone lại trang instagram sau khi học xong khóa học CoderX
+- Clone client : https://github.com/QuyenNC/client-instagram.git
 
 # Functionality
 
